@@ -36,4 +36,18 @@ I.	Mise en œuvre des architecture micro-services avec Spring Cloud
 ###       3.1   Registry Eureka Service
        
  ![image](https://user-images.githubusercontent.com/79708292/206138048-293f1a86-2a56-4a8e-beb6-ce026f095667.png)
+ ###       4.  Secure Angular client with KeyCloak 
+ 
+ ![206132384-c6cfe9d0-9f00-4b58-a7fe-6d98a27cfe51](https://user-images.githubusercontent.com/79708292/219870933-598039c8-9f0b-4866-9aa2-86169b1bdf02.png)
 
+ ###   Products List
+![image](https://user-images.githubusercontent.com/79708292/206041748-ef143fcd-6c77-47d5-85d1-aa95ce430796.png)
+
+ ###  Customers List
+![image](https://user-images.githubusercontent.com/79708292/206041833-9ea7fa1e-0765-4491-a1a7-228f31a7eb26.png)
+
+ ###  Bill for A customer
+![image](https://user-images.githubusercontent.com/79708292/206042085-6d935f2b-92cf-4752-8952-540a2eae291a.png)
+
+6. Kafka
+6.1 Bills Analysis By Customer (Real Time Ordering)
