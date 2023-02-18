@@ -49,5 +49,9 @@ I.	Mise en œuvre des architecture micro-services avec Spring Cloud
  ###  Bill for A customer
 ![image](https://user-images.githubusercontent.com/79708292/206042085-6d935f2b-92cf-4752-8952-540a2eae291a.png)
 
-6. Kafka
-6.1 Bills Analysis By Customer (Real Time Ordering)
+ ### 5. Kafka
+ 
+### 5.1 Bills Analysis By Customer (Real Time Ordering)
+
+![212974331-cb72c423-d6f1-4b5f-a304-a50ad336d640](https://user-images.githubusercontent.com/79708292/219871633-ed499f91-51cc-4b4f-a704-afc4346c83d2.gif)
+
